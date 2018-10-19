@@ -1,2 +1,7 @@
-# ENGO-500-2018
-This is the repo for the required document templates for ENGO 500 2018.
+# Executive-Summary
+
+The University of Calgary Geomatics Department maintains multiple networks used for multiple courses throughout the Undergraduate Degree, collectively known as the University Campus Geodetic Network . Renovations to the engineering building, construction of the TITL building, corresponding landscaping, and general deformations of these networks over time has degraded the internal consistency (between networks) and external consistency (ASCM network). Courses that use these networks include ENGO 343, 443, 401, 579, and 581. One network is located in the ICT/MacEwan Hall courtyard. The second network runs along Collegiate Blvd NW and Collegiate Rd NW down to 24th Ave NW. The third network is located on the East side of the Ronald McDonald House on 24th Ave NW. 
+
+The goal of this project is to re-establish the internal and external consistency of these networks. This is expected to be accomplished by an integrated survey using both conventional and contemporary methods. Primary objectives would include the retracement of all networks to re-establish internal consistency of established control;  re-integration of existing local UCG network control to ASCM geodetic control, and; establishment of new network control to current geodetic standards.
+
+Completion of this project directly benefits the future students and professors associated with the aforementioned courses. Establishment of new control is also expected to aid future development of the University of Calgary Campus as they continue to expand and add additional facilities and buildings. In general adding high precision control will strengthen the local survey fabric in the vicinity of the University of Calgary which may include Varsity, Brentwood, and the in development Research Park Community.
