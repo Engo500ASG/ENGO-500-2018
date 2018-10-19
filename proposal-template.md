@@ -11,15 +11,20 @@
 
 # Project Performance Framework
 ## Objectives, outputs, outcomes and criteria
-> Identify and define project objectives, outputs and outcomes as well as a measurement criteria. 
+Below is the summary table of the Objectives, Outputs, Outcomes and Criteria of this project. Project outcomes have been classified into short, medium and long term impacts.
+The goal of this project is to re-establish the internal and external consistency of these networks. This is expected to be accomplished by an integrated survey using both conventional and contemporary methods. Primary objectives would include the retracement of all networks to re-establish internal consistency of established control; re-integration of existing local UCG network control to ASCM geodetic control, and; establishment of new network control to current geodetic standards.
 > -	Objectives: Define what the project is trying to achieve.
 > -	Outputs: Deliverables and products produced by the project.
 > -	Outcomes: Impact you are working to realize such as behaviours and practices that results from the outputs. They can be short, medium or long term.
 
 Item | Project Objectives | Project Outputs | Project Outcomes | Measurement Criteria
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | | | |
-2 | | | |
+1 |Internally consistent local network  |Smaller relative error ellipses  |Reduced errors from local surveys performed by students |   Contemporary Network Analysis
+2 |Geodetic Reference Network           | Establish high order control    |Provide framework and geodetic reference for UCG network|  Contemporary Network Analysis
+3 |UCG integrated with geodetic network | 3TM and UTM coordinates         | Integrated UCG and geodetic control |Contemporary Network Analysis
+4 |Establishment of new control         |Optimized Network Design         |IPS                                  |Contemporary Network Analysis; ASCM Approval
+
+
 
 > For the measurement criteria provide a statement that describes what the project will accomplish and the performance measure. The project objectives whenever possible should be written to be specific, measurable, achievable, realistic and timely (SMART). The measurement criteria specifies a metric(s) that will measure success.  
 
@@ -28,7 +33,7 @@ Item | Project Objectives | Project Outputs | Project Outcomes | Measurement Cri
 
 Project Objective | Measurement Criteria
 ------------ | -------------
-**Description of Measure** | **Method**
+Description of Measure | **Method**
 Method used to measure |
 Responsibility: who measures/analyses/reports|
 Frequency of measure |
@@ -36,22 +41,35 @@ Key targets |
 Reporting on results |
 
 ## Sustainability
-> Describe plans for maintenance and/or further development of the project outputs.  Demonstrate that the organization sustaining the project results has a structure in place to do so.  
-Describe plans for the maintenance and/or further development of the project outputs for the immediate years following the GeoConnections’ funded project.  Identify as specifically as possible the organization and sector or division that will be responsible for maintaining the results.  
+> Plans for maintenance include: Generating a standard procedure for future local observations and adjustments; Creating a firmware procedure to update the network in the future. Further development of this project would include digitizing the network records to track changes of the network, modular adjustment procedures and maintenance schedules. The years following GeoConnections' funded project, it is expected that the geodetic control (ASCMs) established as part of this project will be maintained by the geodetic society (REF). The organization that will be responsible for maintaining this project through its lifecycle will be ________ .
 
-> Describe the role of your collaborators in sustaining your project.
+
+
+> Collaborators in this project will be the people who will use the network in the future to develop their geomatics knowledge. Industry professionals etc etc...  
 
 # Project Issues and Risks
 ## Issue Identification
-> Specify any major policy, standards, data, technical, partnership and/or client engagement issues that need to be addressed in order for the project to be successful. 
+> Major policy and standards issues
+>> oh boy
+
+> Major data and technical issues
+>> oh boy
+
+> Major Client and Stakeholder issues
+>> oh boy
 
 ## Feasibility and Risk 
 > Identify and evaluate potential challenges or risks in completing and/or sustaining the project.  Please fill out the table and add any other applicable risks.  Examples of risks include: commitment risks, organization risks, contracting risks, technical risks, financial risks, human resources risks (such as the availability of qualified personnel or experienced personnel), project dependencies and/or policy issues related to data access (i.e. licensing, intellectual property, copyright, security, privacy etc). 
 
 No. | Risk Description | Severity (H/M/L) | Probability (H/M/L) | Mitigation strategies for dealing with each risk 
------------- | ------------- | ------------- | ------------- | -------------
-1 | | | |
-2 | | | |
+------------ | ------------- | ------------- | ------------- | ------------- 
+1 | | | | 
+2 | | | | 
+3 | | | | 
+4 | | | | 
+5 | | | | 
+6 | | | | 
+7 | | | | 
 
 > To demonstrate feasibility, make reference to past research, pilot projects, demonstrations, previous experience, and reports. Evaluate the mitigation statements against the Project Implementation Plan for availability of resources and flexibility to address potential risks.  If no mitigation is planned, indicate “none”.
 
