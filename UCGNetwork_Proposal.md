@@ -1,7 +1,9 @@
 # Project Overview
 ## Project Name
 ## Project Description
-> Provide a short narrative description of the project.  Identify/describe any technical and business problem that would be solved, the key benefits and how the project aligns with/supports the strategic direction/objectives of the proponent organization or members, its collaborators, and clients/users.
+> The University of Calgary’s current control network is used by the department of Geomatics engineering for undergraduate courses requiring field work and for research purposes as necessary. These networks would benefit from resurveys to reflect any deformations that have occurred as a result of passage of time.  
+
+The aim of this project is to determine and remedy the internal consistencies of the existing control networks in and near the University of Calgary and tie them into high precision network and adjust the campus network to reflect a high standard.
 ## Proponent Profile
 > Describe your organization including its mandate and vision, current products and/or services, and priorities and/or factors that influence your business. Describe the use of geomatics within your organization, including technologies and data.
 ## Project Sponsor Profile
