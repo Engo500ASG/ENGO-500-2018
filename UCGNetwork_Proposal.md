@@ -112,16 +112,30 @@ Name | John Doe
 
 WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- 
-**1** | **Initiation Phase** | **14** |** ** |  **20xx-xx-xx** | ** **
-1.1 | Kick-off meeting, including preperation | 2 | Meeting minutes document on GitHub | 2014-03-14 | 
-1.2 | some tasks here | 5 |  | 20xx-xx-xx | 
-1.3 | some taks here | 5 |  | 20xx-xx-xx | 
-**2** | **Phase 2** | **15** |** ** |  **20xx-xx-xx** | ** **
-2.1 | some tasks here | 5 |  | 20xx-xx-xx | 
-2.2 | some tasks here | 5 |  | 20xx-xx-xx | 
-**3** | **Phase 3** | **20** |** ** |  **20xx-xx-xx** | ** **
-3.1 | some tasks here | 10 |  | 20xx-xx-xx | 
-3.2 | some tasks here | 5 |  | 20xx-xx-xx | 
+**1** | **Initiation Phase**                    | **14**  |** **                                |  **20xx-xx-xx** | ** **
+1.1   | Kick-off meeting, including preperation | 2       | Meeting minutes document on GitHub  | 2014-03-14 | 
+1.2   | Instrument calibration                  | 5       | Observational Error Estimates       | 20xx-xx-xx | 
+1.3   | Site orientation                        | 5       |                                     | 20xx-xx-xx | 
+**2** | **Network Pre-Analysis and Design**     | **15**  |                               ** ** |  **20xx-xx-xx** | ** **
+2.1   | Geodetic error propagation              | 5       | Network strength                    | 20xx-xx-xx | 
+2.2   | Network quality analysis                | 5       | Network optimality expectations     | 20xx-xx-xx | 
+2.3   | Achievable precision estimates          | 5       | Survey order obtainable             | 20xx-xx-xx | 
+2.4   | Demarcate new controls                  | 5       | Physical points to observe          | 20xx-xx-xx | 
+**3** | **Geodetic Control Observations**       | **20**  |** **                                |  **20xx-xx-xx** | ** **
+3.1   | GNSS observations                       | 10      |                                     | 20xx-xx-xx | 
+3.2   | Conventional observations               | 5       |                                     | 20xx-xx-xx | 
+**4** | **Local Network Observations**          | **15**  |                               ** ** |  **20xx-xx-xx** | ** **
+4.1   | Area 1: ENGO 343 (ICT) network          | 5       |                                     | 20xx-xx-xx | 
+4.2   | Area 2: ENGO 401 network                | 5       |                                     | 20xx-xx-xx | 
+4.3   | Area 3: ENGO 443 traverse               | 5       |                                     | 20xx-xx-xx | 
+4.4   | Area 4: ENGO 581 topo area              | 5       |                                     | 20xx-xx-xx | 
+4.5   | Area 5: 24th Avenue control             | 5       |                                     | 20xx-xx-xx | 
+4.6   | Area 6: ENGG courtyard                  | 5       |                                     | 20xx-xx-xx | 
+**5** | **Post Processing**                     | **20**  |** **                                |  **20xx-xx-xx** | ** **
+5.1   | Final Coordinates                       | 10      |                                     | 20xx-xx-xx | 
+5.2   | Survey Plan                             | 10      |                                     | 20xx-xx-xx | 
+
+
 
 ## Budget Summary
 > Briefly describe the budget required for this project. Itemize and justify the expenses.
