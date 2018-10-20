@@ -12,17 +12,18 @@
 # Project Performance Framework
 ## Objectives, outputs, outcomes and criteria
 Below is the summary table of the Objectives, Outputs, Outcomes and Criteria of this project. Project outcomes have been classified into short, medium and long term impacts.
-The goal of this project is to re-establish the internal and external consistency of these networks. This is expected to be accomplished by an integrated survey using both conventional and contemporary methods. Primary objectives would include the retracement of all networks to re-establish internal consistency of established control; re-integration of existing local UCG network control to ASCM geodetic control, and; establishment of new network control to current geodetic standards.
+The goal of this project is to re-establish the internal and external consistency of these networks. This is expected to be accomplished by an integrated survey using both conventional and contemporary methods. Primary objectives would include the retracement of all networks to re-establish internal consistency of established control; re-integration of existing local UCG network control to ASCM geodetic control, and; establishment of new network control to current geodetic standards. Outputs for this project will be an updated coordinate list, reduce errors  and a procedural manual for the maintenance and upkeep of the network in the future. The outcomes of this project will 
 > -	Objectives: Define what the project is trying to achieve.
 > -	Outputs: Deliverables and products produced by the project.
 > -	Outcomes: Impact you are working to realize such as behaviours and practices that results from the outputs. They can be short, medium or long term.
 
 Item | Project Objectives | Project Outputs | Project Outcomes | Measurement Criteria
 ------------ | ------------- | ------------- | ------------- | -------------
-1 |Internally consistent local network  |Smaller relative error ellipses  |Reduced errors from local surveys performed by students |   Contemporary Network Analysis
-2 |Geodetic Reference Network           | Establish high order control    |Provide framework and geodetic reference for UCG network|  Contemporary Network Analysis
-3 |UCG integrated with geodetic network | 3TM and UTM coordinates         | Integrated UCG and geodetic control |Contemporary Network Analysis
-4 |Establishment of new control         |Optimized Network Design         |IPS                                  |Contemporary Network Analysis; ASCM Approval
+1 |Internally consistent local network  |Local coordinates of points within UCG |Reduced errors from local surveys performed by students |   Contemporary Network Analysis; Optimality Criteria
+2 |Geodetic Reference Network           | Geodetic control established   |Provide framework and geodetic reference for UCG network|  Contemporary Network Analysis; Optimality Criteria
+3 |UCG integrated with geodetic network | 3TM and UTM coordinates         | Integrated UCG and geodetic control |Contemporary Network Analysis; Optimality Criteria
+4 |Establishment of new control         |Optimized Network Design         |IPS                                  |Contemporary Network Analysis; 
+5 |Network Maintenance Procedural Manual|Optimized Network Design         |IPS                                  |Contemporary Network Analysis; 
 
 
 
