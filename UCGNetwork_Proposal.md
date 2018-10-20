@@ -5,11 +5,17 @@
 
 > The aim of this project is to determine and remedy the internal consistencies of the existing control networks in and near the University of Calgary and tie them into high precision network and adjust the campus network to reflect a high standard.
 ## Proponent Profile
-> Describe your organization including its mandate and vision, current products and/or services, and priorities and/or factors that influence your business. Describe the use of geomatics within your organization, including technologies and data.
+> The team members in our organization are Adele Castila, George Barnhardt, and Soroosh Sadeghi. We come from variety of experiences. George and Soroosh have been in the survey industry for over three years. Adele has gained valuable expertise in GIS app development, sales, and public relations.   
+
+> Client satisfaction is our number one prority. We use conventional and contempropery techniques to develop products for our clients.  
+
+> We are all very excited to be involved in a project which will have direct benefits to the department and future students. Together we are confident we can deliver exceptional results that will be dependable for years to come.
 ## Project Sponsor Profile
 > Describe collaborating organizations including their mandate and vision, current products and/or services, and priorities and/or factors that influence their business. If organizations should be collaborating and are not, explain why.
 ## Client/user Profile
-> Describe the needs of the clients/users and how they will benefit from the results of this project. Describe what they do and how they will be impacted by the results and how it may influence their future business direction. Describe how clients/users will be engaged in the project.
+> The Department of Geomatics Engineering at the University of Calgary is one of the leading Geomatics research institutions in the world. It is proud to offer an exceptional education to the undergraduate students.  
+
+> Our client representative is Elena Rangelova. She is the instructor for courses such as Advanced Surveying, Geomatics Block Week, and Basic Principals of Surveying. all these courses have significant field components which will utilize the control networks on campus.
 
 # Project Performance Framework
 ## Objectives, outputs, outcomes and criteria
