@@ -78,12 +78,12 @@ No. | Risk Description | Severity (H/M/L) | Probability (H/M/L) | Mitigation str
 ## Project Team and Resources
 > Identify the resource name, organization, role and responsibilities of the resource. Note any unique competencies that are required to deliver on the project. If the resource name is unknown note this in the resource name field but complete the role, and unique competencies fields. Collaborating organizations resources also need to be included in this table. 
 
-Name | John Doe
------------- | -------------
-**Organization** | Project Team #1
-**Role** | Project Manager
-**Responsibilities** | Do what project manager does
-**Key Skills** | Key skills of a project manager
+Name | Adele Castillo-Ayala | George Barnhardt | Soroosh Sadeghi | Dr. Elena Rangelova | James (last name) | Dr. Steve Liang
+------------ | ------------- | ------------- | ------------- | -------------
+**Organization** | Project Team #1 | Project Team #1 | Project Team #1 | University of Calgary, Geomatics Department | University of Calgary, Geomatics Department | University of Calgary, Geomatics Department
+**Role** | Data Analyst | Data Collector | Data Collector/Project Manager | Project Supervisor | Project Advisor | Capstone Coordinator
+**Responsibilities** | Create Maps of area under survey. Clean/ Analyze the data collected from field and proceed with post field calculations. Create visuals to illustreate project goal, and activities completed. | Operate the survey instruments used. Collect survey data. Compile the data to give to the Data Analyst. | Oversee the entire project, ensuring Team Members are complying to their responsibilites in a timely manner. Enforce safety percautions. Main point of contact between Project Team and the Supervisor, Sponsers, etc. | Ensure the Project Manager is fully aware of the project deliverables in order to achieve project goal by the specified deadlines. | Provide advice to Team Members where applicable and appropriate regarding the best solutions/ approaches to completing the project. | Set Project deadlines. 
+**Key Skills** | Significant software skills and understanding of Data Analysis. | Surveying experience in high-precision surveys. Proficienct with the surveying instruments utilized throughout the project. | Significant organization and communication skills. Natural leader able to oversee big projects and delagte tasks upon Team Members. | Communication skills and significant technical knowledge in the field of surveying. | Significant experience in surveying projects and great communication skills. | Communication skills.
 
 ## Project  Management and Control
 > Describe mechanisms in place to ensure effective management and control of the proposed project.
